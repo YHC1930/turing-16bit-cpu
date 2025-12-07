@@ -1,7 +1,7 @@
 # Turing-Complete 16-Bit CPU — 32-Instruction ISA, 20-Bit Address Bus & 32-Level Call Stack — Designed by a 12-Year-Old in One Week
 
 <img width="1676" height="525" alt="16bit-CPU-32ISA" src="https://github.com/user-attachments/assets/f0ca3e28-6cd5-406b-a90e-40da134965f9" />
-Figure: Fibonacci ◎ Dec. 7, 2025
+Figure:32-Instruction ISA
 
 [![Fibonacci Demo Video](https://img.youtube.com/vi/-XjmA6sbjKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=-XjmA6sbjKg)
 
