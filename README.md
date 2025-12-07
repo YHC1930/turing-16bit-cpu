@@ -3,6 +3,7 @@
 <img width="1676" height="525" alt="16bit-CPU-32ISA" src="https://github.com/user-attachments/assets/f0ca3e28-6cd5-406b-a90e-40da134965f9" />
 Figure:32-Instruction ISA
 
+
 [![Fibonacci Demo Video](https://img.youtube.com/vi/-XjmA6sbjKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=-XjmA6sbjKg)
 
 A fully functional homebrew 16-bit CPU featuring a custom 32-instruction ISA, an asymmetric 20-bit address bus, and a 32-level call stack. Independently designed and validated in one week by a 12-year-old.
